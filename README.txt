@@ -1,5 +1,3 @@
-To access my account: https://www.shinyapps.io/admin/#/application/3905868
-
 To run the app follow the link
 
 1) Follow the link: https://djohnson3.shinyapps.io/app-1/
